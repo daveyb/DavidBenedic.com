@@ -82,11 +82,23 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
-    <Content Include="Content\Site.css" />
+    <Content Include="Content\Images\slice.jpg" />
+    <Content Include="Content\Site.css">
+      <DependentUpon>Site.less</DependentUpon>
+    </Content>
+    <Content Include="Content\Vendor\Reset.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Content\Site.less" />
+    <Content Include="Content\Site.css.map">
+      <DependentUpon>Site.css</DependentUpon>
+    </Content>
+    <Content Include="fonts\EBGaramond12-Regular.eot" />
+    <Content Include="fonts\EBGaramond12-Regular.woff" />
+    <Content Include="fonts\EBGaramond12-Italic.eot" />
+    <Content Include="fonts\EBGaramond12-Italic.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -122,6 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\Fonts\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>

@@ -15,3 +15,4 @@ c:\users\david_000\documents\visual studio 2013\Projects\DavidBenedic.com\DavidB
 c:\users\david_000\documents\visual studio 2013\Projects\DavidBenedic.com\DavidBenedic.com\bin\System.Web.Mvc.xml
 c:\users\david_000\documents\visual studio 2013\Projects\DavidBenedic.com\DavidBenedic.com\obj\Release\DavidBenedic.com.dll
 c:\users\david_000\documents\visual studio 2013\Projects\DavidBenedic.com\DavidBenedic.com\obj\Release\DavidBenedic.com.pdb
+C:\Users\david_000\documents\visual studio 2013\Projects\DavidBenedic.com\DavidBenedic.com\obj\Release\DavidBenedic.com.csprojResolveAssemblyReference.cache

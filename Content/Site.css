@@ -1,18 +1,20 @@
-﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+﻿@font-face {
+  font-family: 'EBGaramond12-Regular';
+  src: url('../fonts/EBGaramond12-Regular.woff');
 }
-
-/* Set padding to keep content from hitting the edges */
-.body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+html {
+  font-size: 100%;
 }
-
-/* Set width on the form input elements since they're 100% wide by default */
-input,
-select,
-textarea {
-    max-width: 280px;
+body {
+  background: url('Images/slice.jpg') repeat top left;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1em;
+  height: 100%;
 }
-
+h1 {
+  font-size: 4em;
+  text-transform: uppercase;
+}
+h2 {
+  font-size: 3em;
+}
